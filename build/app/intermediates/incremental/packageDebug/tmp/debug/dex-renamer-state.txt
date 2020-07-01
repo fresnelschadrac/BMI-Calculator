@@ -1,0 +1,4 @@
+#Tue Jun 09 18:37:50 EDT 2020
+base.0=/Users/sfresnel/Downloads/Flutter-Course-Resources/BMI-Calculator-Completed/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
